@@ -9,8 +9,8 @@
     {
       "id": 2,
       "name": {
-        "englishName": "News",
-        "localizedName": "الاخبار"
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
       },
       "order": 16
     }
