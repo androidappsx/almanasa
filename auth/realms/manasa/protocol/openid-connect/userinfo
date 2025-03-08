@@ -3,7 +3,7 @@
   "AccountId": "111111111",
   "email_verified": true,
   "name": "@Android_AppsX",
-  "preferred_username": "Premium@gmail.com",
+  "preferred_username": "@Android_AppsX",
   "locale": "",
   "Subscription": "{\"expiryDate\":\"2029-03-06T05:13:23\",\"type\":\"PLUS\",\"paymentMethod\":\"Wireless-Network\"}",
   "given_name": "Android Pro",
