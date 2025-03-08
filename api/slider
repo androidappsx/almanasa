@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "id": "0a2af56f-88ee-4908-b5ef-03db5b34e46e",
+      "id": "bein1",
       "name": {
-        "englishName": "La Liga TV 1",
-        "localizedName": "لاليغا  TV 1"
+        "englishName": "Bein Sport 1",
+        "localizedName": "بي أن سبورتس 1"
       },
       "source": {
         "sourceId": "248",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/6ed260a98c7d4bfca73b8174b20d9750.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/6ed260a98c7d4bfca73b8174b20d9750.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/6ed260a98c7d4bfca73b8174b20d9750.jpeg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png"
       },
       "order": 1,
       "categories": [
@@ -22,7 +22,7 @@
           "localizedName": "القنوات الرياضية"
         }
       ],
-      "isPremium": true,
+      "isPremium": false,
       "isPublished": true,
       "isChannelPublished": true,
       "platforms": [
@@ -78,19 +78,19 @@
       ]
     },
     {
-      "id": "b948887e-6010-41bf-989f-cb19e833401b",
+      "id": "bein2",
       "name": {
-        "englishName": "AD Sport Premium 1",
-        "localizedName": "أبوظبي الرياضية بريميوم 1"
+        "englishName": "Bein Sport 2",
+        "localizedName": "بي أن سبورتس 2"
       },
       "source": {
-        "sourceId": "ABUDHABIPREMIUMSPORTS1Y2022M",
-        "provider": "starz_play"
+        "sourceId": "60",
+        "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/49f64e7db1e24f369bb00a60e1288169.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/49f64e7db1e24f369bb00a60e1288169.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/49f64e7db1e24f369bb00a60e1288169.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2.png"
       },
       "order": 2,
       "categories": [
@@ -99,7 +99,7 @@
           "localizedName": "القنوات الرياضية"
         }
       ],
-      "isPremium": true,
+      "isPremium": false,
       "isPublished": true,
       "isChannelPublished": true,
       "platforms": [
@@ -155,19 +155,19 @@
       ]
     },
     {
-      "id": "b24817ba-7f36-479c-ba34-788b1151bcf9",
+      "id": "bein3",
       "name": {
-        "englishName": "Al-Rabiaa Sport 1",
-        "localizedName": "قناة الرابعة الرياضية 1"
+        "englishName": "Bein Sport 3",
+        "localizedName": "بي أن سبورتس 3"
       },
       "source": {
         "sourceId": "30",
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/a289842d25ed4ef5bc0283f43e37d5fc.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/a289842d25ed4ef5bc0283f43e37d5fc.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/a289842d25ed4ef5bc0283f43e37d5fc.jpeg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3.png"
       },
       "order": 3,
       "categories": [
@@ -176,7 +176,7 @@
           "localizedName": "القنوات الرياضية"
         }
       ],
-      "isPremium": true,
+      "isPremium": false,
       "isPublished": true,
       "isChannelPublished": true,
       "platforms": [
@@ -232,19 +232,19 @@
       ]
     },
     {
-      "id": "25bdd8ac-86df-4f57-8a9c-8d77c6dca54c",
+      "id": "bein4",
       "name": {
-        "englishName": "Starzplay sports",
-        "localizedName": "ستارز بلاي سبورت"
+        "englishName": "Bein Sport 4",
+        "localizedName": "بي أن سبورتس 4"
       },
       "source": {
-        "sourceId": "STARZPLAYSPORTSY2022M",
-        "provider": "starz_play"
+        "sourceId": "60",
+        "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e6a3c9b74a6146a6aa469ee05db03c68.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e6a3c9b74a6146a6aa469ee05db03c68.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e6a3c9b74a6146a6aa469ee05db03c68.jpeg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4.png"
       },
       "order": 4,
       "categories": [
@@ -253,7 +253,7 @@
           "localizedName": "القنوات الرياضية"
         }
       ],
-      "isPremium": true,
+      "isPremium": false,
       "isPublished": true,
       "isChannelPublished": true,
       "platforms": [
@@ -309,10 +309,10 @@
       ]
     },
     {
-      "id": "58d491a3-eeb2-41f3-b5ed-e60b81eb84e1",
+      "id": "bein5",
       "name": {
-        "englishName": "Al-Rabiaa movie",
-        "localizedName": "الرابعة أفلام"
+        "englishName": "Bein Sport 5",
+        "localizedName": "بي أن سبورتس 5"
       },
       "source": {
         "sourceId": "60",
@@ -326,11 +326,11 @@
       "order": 5,
       "categories": [
         {
-          "englishName": "Entertainment",
-          "localizedName": "القنوات الترفيهية"
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
         }
       ],
-      "isPremium": true,
+      "isPremium": false,
       "isPublished": true,
       "isChannelPublished": true,
       "platforms": [],
