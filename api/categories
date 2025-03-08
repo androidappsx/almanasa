@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": 192,
+      "name": {
+        "englishName": "Ramadan",
+        "localizedName": "رمضان"
+      },
+      "iconFileId": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4bcf9d92c10a4b4eba006afe592d4c04.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4bcf9d92c10a4b4eba006afe592d4c04.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4bcf9d92c10a4b4eba006afe592d4c04.jpg"
+      },
+      "order": 1,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 192,
+      "key": "192"
+    },
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "iconFileId": {
+        "original": "https://apilivestream.almanasa.tv/uploads/2022-08/eca8027409f56c603bccf653d08ec8c2.jpg",
+        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/504af312771e1f28d160e655f2e0a446.jpg",
+        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/6ded2448edb573199d673d25f010c04f.jpg"
+      },
+      "order": 2,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 1,
+      "key": "1"
+    },
+    {
+      "id": 2,
+      "name": {
+        "englishName": "News",
+        "localizedName": "الاخبار"
+      },
+      "iconFileId": {
+        "original": "https://apilivestream.almanasa.tv/uploads/2022-08/0bce717b94c8dcf36de95ee79a02fe8e.jpg",
+        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/1f0ea2c65502577a6cc1c7ed922c864c.jpg",
+        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/041eb7f8db3b16970a285a96531fa185.jpg"
+      },
+      "order": 3,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 2,
+      "key": "2"
+    },
+    {
+      "id": 4,
+      "name": {
+        "englishName": "Entertainment",
+        "localizedName": "القنوات الترفيهية"
+      },
+      "iconFileId": {
+        "original": "https://apilivestream.almanasa.tv/uploads/2022-10/4dbff7395f90e3527fcc922d8bc99862.jpg",
+        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-10/4dbff7395f90e3527fcc922d8bc99862.jpg",
+        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-10/4dbff7395f90e3527fcc922d8bc99862.jpg"
+      },
+      "order": 4,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 4,
+      "key": "4"
+    },
+    {
+      "id": 181,
+      "name": {
+        "englishName": "Kids",
+        "localizedName": "الاطفال"
+      },
+      "iconFileId": {
+        "original": "https://apilivestream.almanasa.tv/uploads/2024-04/9ab06cdd863413e2d8f47b9dffa441ad.png",
+        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2024-04/9ab06cdd863413e2d8f47b9dffa441ad.png",
+        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2024-04/9ab06cdd863413e2d8f47b9dffa441ad.png"
+      },
+      "order": 5,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 181,
+      "key": "181"
+    },
+    {
+      "id": 71,
+      "name": {
+        "englishName": "Religion",
+        "localizedName": "القنوات الدينية"
+      },
+      "iconFileId": {
+        "original": "https://apilivestream.almanasa.tv/uploads/2022-12/d888caf4d07f8731db6d4fe68502116c.jpg",
+        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-12/d888caf4d07f8731db6d4fe68502116c.jpg",
+        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-12/d888caf4d07f8731db6d4fe68502116c.jpg"
+      },
+      "order": 6,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 71,
+      "key": "71"
+    },
+    {
+      "id": 3,
+      "name": {
+        "englishName": "Radio",
+        "localizedName": "راديو"
+      },
+      "iconFileId": {
+        "original": "https://apilivestream.almanasa.tv/uploads/2022-08/e6729f428b1d4ce8141570b21f4a3c01.jpg",
+        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/e6729f428b1d4ce8141570b21f4a3c01.jpg",
+        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/e6729f428b1d4ce8141570b21f4a3c01.jpg"
+      },
+      "order": 7,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 3,
+      "key": "3"
+    },
+    {
+      "id": 191,
+      "name": {
+        "englishName": "Music",
+        "localizedName": "موسيقى"
+      },
+      "iconFileId": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/cf76673b57b446b0ac1136c2e88fd5e8.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/cf76673b57b446b0ac1136c2e88fd5e8.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/cf76673b57b446b0ac1136c2e88fd5e8.jpg"
+      },
+      "order": 8,
+      "fullSourceName": "Manasa.TV.MetaService.Domain.Categories.Category",
+      "sourceId": 191,
+      "key": "191"
+    }
+  ]
+}
