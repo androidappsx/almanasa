@@ -147,9 +147,9 @@
         "localizedName": "بي إن سبورتس 3"
       },
       "poster": {
-        "original": "https://apilivestream.almanasa.tv/uploads/2024-05/15e24f235b93979d1d53646c960e85ae.jpg",
-        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2024-05/15e24f235b93979d1d53646c960e85ae.jpg",
-        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2024-05/15e24f235b93979d1d53646c960e85ae.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2d7fe96573f14e6080d117cfda26b67a.svg",
@@ -199,9 +199,9 @@
         "localizedName": "بي إن سبورتس 4"
       },
       "poster": {
-        "original": "https://apilivestream.almanasa.tv/uploads/2022-10/10cce52f74bdb248c7019b305eaf2558.jpg",
-        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-10/10cce52f74bdb248c7019b305eaf2558.jpg",
-        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-10/10cce52f74bdb248c7019b305eaf2558.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/8749e16d703c479895644ea69d7a0beb.svg",
@@ -287,9 +287,9 @@
         "localizedName": "بي إن سبورتس 5"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/36c3ef402ad14fecac24e83beba318a4.png",
@@ -330,7 +330,7 @@
         }
       ],
       "isPublished": true,
-      "isPremium": true,
+      "isPremium": false,
       "description": {
         "englishName": "0000",
         "localizedName": "لاليغا 1"
@@ -388,9 +388,9 @@
         "localizedName": "بي إن سبورتس 6"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_6.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_6.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_6.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/0be43b3b2dc44c559d396c75cbbaa307.png",
@@ -431,7 +431,7 @@
         }
       ],
       "isPublished": true,
-      "isPremium": true,
+      "isPremium": false,
       "description": {
         "englishName": "0000",
         "localizedName": "لاليغا 2"
@@ -489,9 +489,9 @@
         "localizedName": "بي إن سبورتس 7"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7c88f80c75b14b89a41120d02163f9f8.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7c88f80c75b14b89a41120d02163f9f8.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7c88f80c75b14b89a41120d02163f9f8.jpeg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_7.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_7.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_7.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e7f54d215c1a4e288217a4491e511d8e.png",
@@ -532,7 +532,7 @@
         }
       ],
       "isPublished": true,
-      "isPremium": true,
+      "isPremium": false,
       "description": {
         "englishName": "002",
         "localizedName": "القناة الثانية"
@@ -590,9 +590,9 @@
         "localizedName": "بي إن سبورتس 8"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/b8a0edb8b43a4309ae1394dbd86d383b.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/b8a0edb8b43a4309ae1394dbd86d383b.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/b8a0edb8b43a4309ae1394dbd86d383b.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_8.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/9124b3d4e83249b79651805a371c7883.svg",
@@ -633,7 +633,7 @@
         }
       ],
       "isPublished": true,
-      "isPremium": true,
+      "isPremium": false,
       "description": {
         "englishName": "Premium",
         "localizedName": "Premium"
@@ -691,9 +691,9 @@
         "localizedName": "بي إن سبورتس 9"
       },
       "poster": {
-        "original": "https://apilivestream.almanasa.tv/uploads/2023-08/398f135a2382ef8f98db020322e7181d.jpg",
-        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2023-08/398f135a2382ef8f98db020322e7181d.jpg",
-        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2023-08/398f135a2382ef8f98db020322e7181d.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_9.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_9.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_9.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg",
@@ -779,9 +779,9 @@
         "localizedName": "بي إن سبورتس 10"
       },
       "poster": {
-        "original": "https://apilivestream.almanasa.tv/uploads/2023-08/398f135a2382ef8f98db020322e7181d.jpg",
-        "smallThumb": "https://apilivestream.almanasa.tv/uploads/2023-08/398f135a2382ef8f98db020322e7181d.jpg",
-        "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2023-08/398f135a2382ef8f98db020322e7181d.jpg"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_10.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_10.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_10.png"
       },
       "logo": {
         "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/4a06793d34864cc7a097c57c2b682e8f.svg",
