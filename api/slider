@@ -1,0 +1,354 @@
+{
+  "items": [
+    {
+      "id": "0a2af56f-88ee-4908-b5ef-03db5b34e46e",
+      "name": {
+        "englishName": "La Liga TV 1",
+        "localizedName": "لاليغا  TV 1"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/6ed260a98c7d4bfca73b8174b20d9750.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/6ed260a98c7d4bfca73b8174b20d9750.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/6ed260a98c7d4bfca73b8174b20d9750.jpeg"
+      },
+      "order": 1,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": true,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "b948887e-6010-41bf-989f-cb19e833401b",
+      "name": {
+        "englishName": "AD Sport Premium 1",
+        "localizedName": "أبوظبي الرياضية بريميوم 1"
+      },
+      "source": {
+        "sourceId": "ABUDHABIPREMIUMSPORTS1Y2022M",
+        "provider": "starz_play"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/49f64e7db1e24f369bb00a60e1288169.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/49f64e7db1e24f369bb00a60e1288169.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/49f64e7db1e24f369bb00a60e1288169.jpg"
+      },
+      "order": 2,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": true,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "b24817ba-7f36-479c-ba34-788b1151bcf9",
+      "name": {
+        "englishName": "Al-Rabiaa Sport 1",
+        "localizedName": "قناة الرابعة الرياضية 1"
+      },
+      "source": {
+        "sourceId": "30",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/a289842d25ed4ef5bc0283f43e37d5fc.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/a289842d25ed4ef5bc0283f43e37d5fc.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/a289842d25ed4ef5bc0283f43e37d5fc.jpeg"
+      },
+      "order": 3,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": true,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "25bdd8ac-86df-4f57-8a9c-8d77c6dca54c",
+      "name": {
+        "englishName": "Starzplay sports",
+        "localizedName": "ستارز بلاي سبورت"
+      },
+      "source": {
+        "sourceId": "STARZPLAYSPORTSY2022M",
+        "provider": "starz_play"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e6a3c9b74a6146a6aa469ee05db03c68.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e6a3c9b74a6146a6aa469ee05db03c68.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/e6a3c9b74a6146a6aa469ee05db03c68.jpeg"
+      },
+      "order": 4,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": true,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "58d491a3-eeb2-41f3-b5ed-e60b81eb84e1",
+      "name": {
+        "englishName": "Al-Rabiaa movie",
+        "localizedName": "الرابعة أفلام"
+      },
+      "source": {
+        "sourceId": "60",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/d6b1f77c51424af89750771296ea071f.png",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/d6b1f77c51424af89750771296ea071f.png",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/d6b1f77c51424af89750771296ea071f.png"
+      },
+      "order": 5,
+      "categories": [
+        {
+          "englishName": "Entertainment",
+          "localizedName": "القنوات الترفيهية"
+        }
+      ],
+      "isPremium": true,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    }
+  ],
+  "key": null
+}
