@@ -18,7 +18,7 @@
   "streams": [
     {
       "sourceId": null,
-      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8",
+      "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8",
       "pid": null,
       "scheme": "None",
       "resolution": "Adaptive"
