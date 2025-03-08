@@ -29,9 +29,9 @@
   "provider": "legacy_cms",
   "subscriptionTypes": [],
   "poster": {
-    "original": "https://apilivestream.almanasa.tv/uploads/2022-08/2694f9fcb624ae92ec656a9fb5ac7435.jpg",
-    "smallThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/2694f9fcb624ae92ec656a9fb5ac7435.jpg",
-    "mediumThumb": "https://apilivestream.almanasa.tv/uploads/2022-08/2694f9fcb624ae92ec656a9fb5ac7435.jpg"
+    "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
+    "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png",
+    "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/2a244db28ce34c89914b5dc424d9774d.png"
   },
   "isPremium": false,
   "isPublished": true,
