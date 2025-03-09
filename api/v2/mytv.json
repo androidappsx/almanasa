@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "id": "bein1",
+      "id": "bein1mytv",
       "name": {
         "englishName": "Bein Sport 1",
         "localizedName": "بي إن سبورتس 1"
@@ -53,7 +53,7 @@
       "key": "d0466979-ab8a-43b1-887a-6232d4b219ed"
     },
     {
-      "id": "bein2",
+      "id": "bein2mytv",
       "name": {
         "englishName": "Bein Sport 2",
         "localizedName": "بي إن سبورتس 2"
@@ -141,7 +141,7 @@
       "key": "0f75676f-6fc0-4924-bc3b-088e9c4b9ea9"
     },
     {
-      "id": "bein3",
+      "id": "bein3mytv",
       "name": {
         "englishName": "Bein Sport 3",
         "localizedName": "بي إن سبورتس 3"
@@ -193,7 +193,7 @@
       "key": "4cdb352f-aa8a-490d-a619-8216b30b1337"
     },
     {
-      "id": "bein4",
+      "id": "bein4mytv",
       "name": {
         "englishName": "Bein Sport 4",
         "localizedName": "بي إن سبورتس 4"
@@ -281,7 +281,7 @@
       "key": "80b0900c-12ef-4436-a443-e41b80beb0c1"
     },
     {
-      "id": "bein5",
+      "id": "bein5mytv",
       "name": {
         "englishName": "Bein Sport 5",
         "localizedName": "بي إن سبورتس 5"
@@ -382,7 +382,7 @@
       "key": "0a2af56f-88ee-4908-b5ef-03db5b34e46e"
     },
     {
-      "id": "bein6",
+      "id": "bein6mytv",
       "name": {
         "englishName": "Bein Sport 6",
         "localizedName": "بي إن سبورتس 6"
@@ -483,7 +483,7 @@
       "key": "83b04b29-684a-4075-86f8-e158d16748f6"
     },
     {
-      "id": "bein7",
+      "id": "bein7mytv",
       "name": {
         "englishName": "Bein Sport 7",
         "localizedName": "بي إن سبورتس 7"
@@ -584,7 +584,7 @@
       "key": "b24817ba-7f36-479c-ba34-788b1151bcf9"
     },
     {
-      "id": "bein8",
+      "id": "bein8mytv",
       "name": {
         "englishName": "Bein Sport 8",
         "localizedName": "بي إن سبورتس 8"
@@ -685,7 +685,7 @@
       "key": "b948887e-6010-41bf-989f-cb19e833401b"
     },
     {
-      "id": "bein9",
+      "id": "bein9mytv",
       "name": {
         "englishName": "Bein Sport 9",
         "localizedName": "بي إن سبورتس 9"
@@ -773,7 +773,7 @@
       "key": "63a53204-9b5a-47bf-a112-6f7f5dcf9d5c"
     },
     {
-      "id": "bein10",
+      "id": "bein10mytv",
       "name": {
         "englishName": "Bein Sport 10",
         "localizedName": "بي إن سبورتس 10"
