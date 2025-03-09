@@ -11,9 +11,9 @@
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.png",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.png",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.png"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1_black.jpg"
       },
       "order": 1,
       "categories": [
@@ -88,9 +88,9 @@
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.png",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.png",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.png"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_2_black.jpg"
       },
       "order": 2,
       "categories": [
@@ -165,9 +165,9 @@
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.png",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.png",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.png"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_3_black.jpg"
       },
       "order": 3,
       "categories": [
@@ -242,9 +242,9 @@
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.png",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.png",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.png"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_4_black.jpg"
       },
       "order": 4,
       "categories": [
@@ -319,9 +319,9 @@
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.png",
-        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.png",
-        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.png"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_5_black.jpg"
       },
       "order": 5,
       "categories": [
