@@ -319,9 +319,9 @@
         "provider": "legacy_cms"
       },
       "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/d6b1f77c51424af89750771296ea071f.png",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/d6b1f77c51424af89750771296ea071f.png",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/d6b1f77c51424af89750771296ea071f.png"
+        "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png",
+        "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/bein_1.png"
       },
       "order": 5,
       "categories": [
