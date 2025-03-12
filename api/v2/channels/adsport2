@@ -1,0 +1,93 @@
+{
+  "id": "adsport2",
+  "externalId": null,
+  "name": {
+    "englishName": "AD Sport Premium 2",
+    "localizedName": "أبوظبي الرياضية بريميوم 2"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 5
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "https://sps2.sp-livestream.almanasa.tv:8230/out/v1/4991ccee4be84251bc98dfdca25fbef7/index.m3u8",
+      "pid": "Zzuk6pNIP68A",
+      "scheme": "FairPlay",
+      "resolution": "Adaptive"
+    },
+    {
+      "sourceId": null,
+      "url": "https://sps2.sp-livestream.almanasa.tv:8230/out/v1/af6e929916584ab0823af2a08dddc090/index.mpd",
+      "pid": "aq63KpsRT3m1",
+      "scheme": "Widevine",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Cbox",
+        "localizedName": "شاشات التلفاز"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "englishName": "iOS",
+        "localizedName": "iOS"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "englishName": "Web",
+        "localizedName": "Web"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "englishName": "Android",
+        "localizedName": "Android"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "englishName": "Android tv app",
+        "localizedName": "Android TV App"
+      }
+    }
+  ],
+  "providerId": "ABUDHABIPREMIUMSPORTS2Y2022M",
+  "provider": "starz_play",
+  "subscriptionTypes": [
+    {
+      "englishName": "PLUS",
+      "localizedName": "بلس"
+    },
+    {
+      "englishName": "PREMIUM",
+      "localizedName": "بريميوم"
+    },
+    {
+      "englishName": "TESTING_PREMIUM",
+      "localizedName": "بريميوم"
+    }
+  ],
+  "poster": null,
+  "isPremium": true,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "ffd0134d-97fe-4bce-af26-b9c2715e3509",
+  "key": "ffd0134d-97fe-4bce-af26-b9c2715e3509"
+}
