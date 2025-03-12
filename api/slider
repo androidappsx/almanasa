@@ -1,314 +1,6 @@
 {
   "items": [
     {
-      "id": "laliga1",
-      "name": {
-        "englishName": "La Liga TV 1",
-        "localizedName": "لاليغا 1"
-      },
-      "source": {
-        "sourceId": "248",
-        "provider": "legacy_cms"
-      },
-      "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg"
-      },
-      "order": 1,
-      "categories": [
-        {
-          "englishName": "Sport",
-          "localizedName": "القنوات الرياضية"
-        }
-      ],
-      "isPremium": false,
-      "isPublished": true,
-      "isChannelPublished": true,
-      "platforms": [
-        {
-          "id": 1,
-          "name": {
-            "englishName": "Cbox",
-            "localizedName": "شاشات التلفاز"
-          }
-        },
-        {
-          "id": 2,
-          "name": {
-            "englishName": "iOS",
-            "localizedName": "iOS"
-          }
-        },
-        {
-          "id": 3,
-          "name": {
-            "englishName": "Web",
-            "localizedName": "Web"
-          }
-        },
-        {
-          "id": 4,
-          "name": {
-            "englishName": "Android",
-            "localizedName": "Android"
-          }
-        },
-        {
-          "id": 5,
-          "name": {
-            "englishName": "Android tv app",
-            "localizedName": "Android TV App"
-          }
-        }
-      ],
-      "subscriptionTypes": [
-        {
-          "englishName": "PLUS",
-          "localizedName": "بلس"
-        },
-        {
-          "englishName": "PREMIUM",
-          "localizedName": "بريميوم"
-        },
-        {
-          "englishName": "TESTING_PREMIUM",
-          "localizedName": "بريميوم"
-        }
-      ]
-    },
-    {
-      "id": "laliga2",
-      "name": {
-        "englishName": "La Liga TV 2",
-        "localizedName": "لاليغا 2"
-      },
-      "source": {
-        "sourceId": "248",
-        "provider": "legacy_cms"
-      },
-      "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg"
-      },
-      "order": 2,
-      "categories": [
-        {
-          "englishName": "Sport",
-          "localizedName": "القنوات الرياضية"
-        }
-      ],
-      "isPremium": false,
-      "isPublished": true,
-      "isChannelPublished": true,
-      "platforms": [
-        {
-          "id": 1,
-          "name": {
-            "englishName": "Cbox",
-            "localizedName": "شاشات التلفاز"
-          }
-        },
-        {
-          "id": 2,
-          "name": {
-            "englishName": "iOS",
-            "localizedName": "iOS"
-          }
-        },
-        {
-          "id": 3,
-          "name": {
-            "englishName": "Web",
-            "localizedName": "Web"
-          }
-        },
-        {
-          "id": 4,
-          "name": {
-            "englishName": "Android",
-            "localizedName": "Android"
-          }
-        },
-        {
-          "id": 5,
-          "name": {
-            "englishName": "Android tv app",
-            "localizedName": "Android TV App"
-          }
-        }
-      ],
-      "subscriptionTypes": [
-        {
-          "englishName": "PLUS",
-          "localizedName": "بلس"
-        },
-        {
-          "englishName": "PREMIUM",
-          "localizedName": "بريميوم"
-        },
-        {
-          "englishName": "TESTING_PREMIUM",
-          "localizedName": "بريميوم"
-        }
-      ]
-    },
-    {
-      "id": "adsport_prem1",
-      "name": {
-        "englishName": "AD Sport Premium 1",
-        "localizedName": "أبوظبي الرياضية بريميوم 1"
-      },
-      "source": {
-        "sourceId": "248",
-        "provider": "legacy_cms"
-      },
-      "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg"
-      },
-      "order": 3,
-      "categories": [
-        {
-          "englishName": "Sport",
-          "localizedName": "القنوات الرياضية"
-        }
-      ],
-      "isPremium": false,
-      "isPublished": true,
-      "isChannelPublished": true,
-      "platforms": [
-        {
-          "id": 1,
-          "name": {
-            "englishName": "Cbox",
-            "localizedName": "شاشات التلفاز"
-          }
-        },
-        {
-          "id": 2,
-          "name": {
-            "englishName": "iOS",
-            "localizedName": "iOS"
-          }
-        },
-        {
-          "id": 3,
-          "name": {
-            "englishName": "Web",
-            "localizedName": "Web"
-          }
-        },
-        {
-          "id": 4,
-          "name": {
-            "englishName": "Android",
-            "localizedName": "Android"
-          }
-        },
-        {
-          "id": 5,
-          "name": {
-            "englishName": "Android tv app",
-            "localizedName": "Android TV App"
-          }
-        }
-      ],
-      "subscriptionTypes": [
-        {
-          "englishName": "PLUS",
-          "localizedName": "بلس"
-        },
-        {
-          "englishName": "PREMIUM",
-          "localizedName": "بريميوم"
-        },
-        {
-          "englishName": "TESTING_PREMIUM",
-          "localizedName": "بريميوم"
-        }
-      ]
-    },
-    {
-      "id": "adsport_prem2",
-      "name": {
-        "englishName": "AD Sport Premium 2",
-        "localizedName": "أبوظبي الرياضية بريميوم 2"
-      },
-      "source": {
-        "sourceId": "248",
-        "provider": "legacy_cms"
-      },
-      "poster": {
-        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
-        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
-        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg"
-      },
-      "order": 4,
-      "categories": [
-        {
-          "englishName": "Sport",
-          "localizedName": "القنوات الرياضية"
-        }
-      ],
-      "isPremium": false,
-      "isPublished": true,
-      "isChannelPublished": true,
-      "platforms": [
-        {
-          "id": 1,
-          "name": {
-            "englishName": "Cbox",
-            "localizedName": "شاشات التلفاز"
-          }
-        },
-        {
-          "id": 2,
-          "name": {
-            "englishName": "iOS",
-            "localizedName": "iOS"
-          }
-        },
-        {
-          "id": 3,
-          "name": {
-            "englishName": "Web",
-            "localizedName": "Web"
-          }
-        },
-        {
-          "id": 4,
-          "name": {
-            "englishName": "Android",
-            "localizedName": "Android"
-          }
-        },
-        {
-          "id": 5,
-          "name": {
-            "englishName": "Android tv app",
-            "localizedName": "Android TV App"
-          }
-        }
-      ],
-      "subscriptionTypes": [
-        {
-          "englishName": "PLUS",
-          "localizedName": "بلس"
-        },
-        {
-          "englishName": "PREMIUM",
-          "localizedName": "بريميوم"
-        },
-        {
-          "englishName": "TESTING_PREMIUM",
-          "localizedName": "بريميوم"
-        }
-      ]
-    },
-    {
       "id": "adsport1",
       "name": {
         "englishName": "Abu Dhabi Sports 1",
@@ -461,12 +153,320 @@
           "localizedName": "بريميوم"
         }
       ]
+    },   
+    {
+      "id": "laliga1",
+      "name": {
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg"
+      },
+      "order": 1,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "laliga2",
+      "name": {
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg"
+      },
+      "order": 2,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "adsport_prem1",
+      "name": {
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/efb4715fb082432bb15afca169c089e8.jpeg"
+      },
+      "order": 3,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
+      "id": "adsport_prem2",
+      "name": {
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/211811ca8ada460ca56836daa1a8dd9a.jpg"
+      },
+      "order": 4,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
     },
     {
       "id": "adsport01",
       "name": {
-        "englishName": "AbuDhabi Sports 01 - Live Channel",
-        "localizedName": "أبو ظبي الرياضية 01"
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
       },
       "source": {
         "sourceId": "248",
@@ -542,8 +542,8 @@
     {
       "id": "starzplaysport",
       "name": {
-        "englishName": "Starzplay sports",
-        "localizedName": "ستارز بلاي سبورت"
+        "englishName": "Earthlink Only",
+        "localizedName": "ايرثلنك فقط"
       },
       "source": {
         "sourceId": "248",
