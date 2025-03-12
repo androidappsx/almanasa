@@ -1,0 +1,41 @@
+{
+  "id": "adsport2",
+  "externalId": 253,
+  "name": {
+    "englishName": "Abu Dhabi Sports 2",
+    "localizedName": "أبو ظبي الرياضية 2"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 18
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "https://livestream.almanasa.tv:8194/sport/ch11/adaptive.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [],
+  "providerId": "253",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [],
+  "poster": {
+    "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg",
+    "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg",
+    "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/93f6953c62c5439f9b50d72d33221247.jpg"
+  },
+  "isPremium": false,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "8bc9b73e-8d3d-4025-990c-503f5a9906dd",
+  "key": "8bc9b73e-8d3d-4025-990c-503f5a9906dd"
+}
