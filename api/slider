@@ -1,6 +1,83 @@
 {
   "items": [
     {
+      "id": "laliga1",
+      "name": {
+        "englishName": "Bein Sport 1",
+        "localizedName": "بي أن سبورتس 1"
+      },
+      "source": {
+        "sourceId": "248",
+        "provider": "legacy_cms"
+      },
+      "poster": {
+        "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+        "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+        "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg"
+      },
+      "order": 1,
+      "categories": [
+        {
+          "englishName": "Sport",
+          "localizedName": "القنوات الرياضية"
+        }
+      ],
+      "isPremium": false,
+      "isPublished": true,
+      "isChannelPublished": true,
+      "platforms": [
+        {
+          "id": 1,
+          "name": {
+            "englishName": "Cbox",
+            "localizedName": "شاشات التلفاز"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "englishName": "iOS",
+            "localizedName": "iOS"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "englishName": "Web",
+            "localizedName": "Web"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "englishName": "Android",
+            "localizedName": "Android"
+          }
+        },
+        {
+          "id": 5,
+          "name": {
+            "englishName": "Android tv app",
+            "localizedName": "Android TV App"
+          }
+        }
+      ],
+      "subscriptionTypes": [
+        {
+          "englishName": "PLUS",
+          "localizedName": "بلس"
+        },
+        {
+          "englishName": "PREMIUM",
+          "localizedName": "بريميوم"
+        },
+        {
+          "englishName": "TESTING_PREMIUM",
+          "localizedName": "بريميوم"
+        }
+      ]
+    },
+    {
       "id": "bein1",
       "name": {
         "englishName": "Bein Sport 1",
