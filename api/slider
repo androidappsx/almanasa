@@ -77,7 +77,7 @@
         }
       ]
     },
-{
+    {
       "id": "laliga2",
       "name": {
         "englishName": "La Liga TV 2",
@@ -154,11 +154,11 @@
         }
       ]
     },
-{
+    {
       "id": "adsport_prem1",
       "name": {
-    "englishName": "AD Sport Premium 1",
-    "localizedName": "أبوظبي الرياضية بريميوم 1"
+        "englishName": "AD Sport Premium 1",
+        "localizedName": "أبوظبي الرياضية بريميوم 1"
       },
       "source": {
         "sourceId": "248",
@@ -231,11 +231,11 @@
         }
       ]
     },
-{
+    {
       "id": "adsport_prem2",
       "name": {
-    "englishName": "AD Sport Premium 2",
-    "localizedName": "أبوظبي الرياضية بريميوم 2"
+        "englishName": "AD Sport Premium 2",
+        "localizedName": "أبوظبي الرياضية بريميوم 2"
       },
       "source": {
         "sourceId": "248",
@@ -308,11 +308,11 @@
         }
       ]
     },
-{
+    {
       "id": "adsport1",
       "name": {
-    "englishName": "Abu Dhabi Sports 1",
-    "localizedName": "أبو ظبي الرياضية 1"
+        "englishName": "Abu Dhabi Sports 1",
+        "localizedName": "أبو ظبي الرياضية 1"
       },
       "source": {
         "sourceId": "248",
@@ -385,11 +385,11 @@
         }
       ]
     },
-{
+    {
       "id": "adsport2",
       "name": {
-    "englishName": "Abu Dhabi Sports 2",
-    "localizedName": "أبو ظبي الرياضية 2"
+        "englishName": "Abu Dhabi Sports 2",
+        "localizedName": "أبو ظبي الرياضية 2"
       },
       "source": {
         "sourceId": "248",
@@ -462,11 +462,11 @@
         }
       ]
     },
-{
+    {
       "id": "adsport01",
       "name": {
-    "englishName": "AbuDhabi Sports 01 - Live Channel",
-    "localizedName": "أبو ظبي الرياضية 01"
+        "englishName": "AbuDhabi Sports 01 - Live Channel",
+        "localizedName": "أبو ظبي الرياضية 01"
       },
       "source": {
         "sourceId": "248",
@@ -539,11 +539,11 @@
         }
       ]
     },
-{
+    {
       "id": "starzplaysport",
       "name": {
-    "englishName": "Starzplay sports",
-    "localizedName": "ستارز بلاي سبورت"
+        "englishName": "Starzplay sports",
+        "localizedName": "ستارز بلاي سبورت"
       },
       "source": {
         "sourceId": "248",
@@ -616,6 +616,6 @@
         }
       ]
     }
-  ]
+  ],
   "key": null
 }
