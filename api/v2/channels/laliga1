@@ -1,0 +1,90 @@
+{
+  "id": "laliga1",
+  "externalId": 248,
+  "name": {
+    "englishName": "La Liga TV 1",
+    "localizedName": "لاليغا  TV 1"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 1
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "https://livestream.almanasa.tv:8185/sport/ch9/adaptive.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Cbox",
+        "localizedName": "شاشات التلفاز"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "englishName": "iOS",
+        "localizedName": "iOS"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "englishName": "Web",
+        "localizedName": "Web"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "englishName": "Android",
+        "localizedName": "Android"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "englishName": "Android tv app",
+        "localizedName": "Android TV App"
+      }
+    }
+  ],
+  "providerId": "248",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [
+    {
+      "englishName": "PLUS",
+      "localizedName": "بلس"
+    },
+    {
+      "englishName": "PREMIUM",
+      "localizedName": "بريميوم"
+    },
+    {
+      "englishName": "TESTING_PREMIUM",
+      "localizedName": "بريميوم"
+    }
+  ],
+  "poster": {
+    "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+    "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg",
+    "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/7d2128fe9bfc47ec874e0b62c7ca6404.jpeg"
+  },
+  "isPremium": true,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "0a2af56f-88ee-4908-b5ef-03db5b34e46e",
+  "key": "0a2af56f-88ee-4908-b5ef-03db5b34e46e"
+}
