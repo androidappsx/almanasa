@@ -1,0 +1,90 @@
+{
+  "id": "laliga2",
+  "externalId": 0,
+  "name": {
+    "englishName": "La Liga TV 2",
+    "localizedName": "لاليغا  TV 2"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 6
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "https://livestream.almanasa.tv:8185/sport/ch9/adaptive.m3u8",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Cbox",
+        "localizedName": "شاشات التلفاز"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "englishName": "iOS",
+        "localizedName": "iOS"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "englishName": "Web",
+        "localizedName": "Web"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "englishName": "Android",
+        "localizedName": "Android"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "englishName": "Android tv app",
+        "localizedName": "Android TV App"
+      }
+    }
+  ],
+  "providerId": "manasa_cmse5ef3431-110a-46e2-9fa6-83e314878fe3",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [
+    {
+      "englishName": "PLUS",
+      "localizedName": "بلس"
+    },
+    {
+      "englishName": "PREMIUM",
+      "localizedName": "بريميوم"
+    },
+    {
+      "englishName": "TESTING_PREMIUM",
+      "localizedName": "بريميوم"
+    }
+  ],
+  "poster": {
+    "original": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
+    "smallThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg",
+    "mediumThumb": "https://fs-dw.almanasa.tv/almanasa-fs-image-tst/43ea24941fee45eaa8d0a424948af20c.jpg"
+  },
+  "isPremium": true,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "83b04b29-684a-4075-86f8-e158d16748f6",
+  "key": "83b04b29-684a-4075-86f8-e158d16748f6"
+}
