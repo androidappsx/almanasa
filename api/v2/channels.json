@@ -30,7 +30,7 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 16
+          "order": 1
         }
       ],
       "order": 1,
@@ -82,7 +82,7 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 4
+          "order": 2
         }
       ],
       "order": 2,
@@ -170,7 +170,7 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 2
+          "order": 3
         }
       ],
       "order": 3,
@@ -222,7 +222,7 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 6
+          "order": 4
         }
       ],
       "order": 4,
@@ -310,7 +310,7 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 1
+          "order": 5
         }
       ],
       "order": 5,
@@ -512,7 +512,7 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 3
+          "order": 7
         }
       ],
       "order": 7,
@@ -613,7 +613,7 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 2
+          "order": 8
         }
       ],
       "order": 8,
@@ -714,10 +714,10 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 3
+          "order": 9
         }
       ],
-      "order": 12,
+      "order": 9,
       "tempOrder": "006",
       "subscriptionTypes": [],
       "isPublished": true,
@@ -802,10 +802,10 @@
             "englishName": "Sport",
             "localizedName": "القنوات الرياضية"
           },
-          "order": 3
+          "order": 10
         }
       ],
-      "order": 12,
+      "order": 10,
       "tempOrder": "006",
       "subscriptionTypes": [],
       "isPublished": true,
