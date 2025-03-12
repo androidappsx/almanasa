@@ -1,0 +1,86 @@
+{
+  "id": "adsport01",
+  "externalId": null,
+  "name": {
+    "englishName": "AbuDhabi Sports 01 - Live Channel",
+    "localizedName": "أبو ظبي الرياضية 01"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 21
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "https://live-hw-stream.sp-livestream.almanasa.tv:8230/ADSports1/hls/drm/index.m3u8",
+      "pid": "XdRdrLt5JKvx",
+      "scheme": "FairPlay",
+      "resolution": "Adaptive"
+    },
+    {
+      "sourceId": null,
+      "url": "https://live-hw-stream.sp-livestream.almanasa.tv:8230/ADSports1/dash/drm/index.mpd",
+      "pid": "K3p_keWHS4Tk",
+      "scheme": "Widevine",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Cbox",
+        "localizedName": "شاشات التلفاز"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "englishName": "iOS",
+        "localizedName": "iOS"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "englishName": "Web",
+        "localizedName": "Web"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "englishName": "Android",
+        "localizedName": "Android"
+      }
+    }
+  ],
+  "providerId": "ABUDHABISPORTS1LIVEY2021M",
+  "provider": "starz_play",
+  "subscriptionTypes": [
+    {
+      "englishName": "PLUS",
+      "localizedName": "بلس"
+    },
+    {
+      "englishName": "PREMIUM",
+      "localizedName": "بريميوم"
+    },
+    {
+      "englishName": "TESTING_PREMIUM",
+      "localizedName": "بريميوم"
+    }
+  ],
+  "poster": null,
+  "isPremium": true,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "22af63af-6f00-4609-a59a-d3c7ecbd16b2",
+  "key": "22af63af-6f00-4609-a59a-d3c7ecbd16b2"
+}
