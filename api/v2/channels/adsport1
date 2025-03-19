@@ -18,7 +18,7 @@
   "streams": [
     {
       "sourceId": null,
-      "url": "http://het101z.4rouwanda-shop.store/live/69854211/index.m3u8?t=TV9KdPLqfxnisANe_Auy_A&e=1742371365",
+      "url": "https://livestream.almanasa.tv:8193/sport/ch10/adaptive.m3u8",
       "pid": null,
       "scheme": "None",
       "resolution": "Adaptive"
