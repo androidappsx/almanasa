@@ -17,10 +17,10 @@
   ],
   "streams": [
     {
-      "sourceId": null,
+      "sourceId": "C88B512B-17AB-4F6C-B09E-B0FF4A1056ED",
       "url": "https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd",
-      "pid": "9a04f079-9840-4286-ab92-e65be0885f95",
-      "scheme": "cenc",
+      "pid": "edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",
+      "scheme": "Widevine",
       "resolution": "Adaptive"
     }
   ],
