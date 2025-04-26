@@ -1,0 +1,77 @@
+{
+  "id": "ssc5",
+  "externalId": 252,
+  "name": {
+    "englishName": "SSC 5",
+    "localizedName": "SSC 5"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Sport",
+        "localizedName": "القنوات الرياضية"
+      },
+      "order": 9
+    }
+  ],
+  "streams": [
+    {
+      "sourceId": null,
+      "url": "https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd",
+      "pid": null,
+      "scheme": "None",
+      "resolution": "Adaptive"
+    }
+  ],
+  "platforms": [
+    {
+      "id": 1,
+      "name": {
+        "englishName": "Cbox",
+        "localizedName": "شاشات التلفاز"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "englishName": "iOS",
+        "localizedName": "iOS"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "englishName": "Web",
+        "localizedName": "Web"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "englishName": "Android",
+        "localizedName": "Android"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "englishName": "Android tv app",
+        "localizedName": "Android TV App"
+      }
+    }
+  ],
+  "providerId": "252",
+  "provider": "legacy_cms",
+  "subscriptionTypes": [],
+  "poster": {
+    "original": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/ssc5.jpg",
+    "smallThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/ssc5.jpg",
+    "mediumThumb": "https://raw.githubusercontent.com/androidappsx/almanasa/refs/heads/main/img/ssc5.jpg"
+  },
+  "isPremium": false,
+  "isPublished": true,
+  "fullSourceName": "Manasa.TV.MetaService.Domain.Channels.Channel",
+  "sourceId": "c0baea5d-9a72-4025-8b64-585c6bcb7502",
+  "key": "c0baea5d-9a72-4025-8b64-585c6bcb7502"
+}
