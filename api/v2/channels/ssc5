@@ -19,8 +19,8 @@
     {
       "sourceId": null,
       "url": "https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd",
-      "pid": null,
-      "scheme": "FairPlay",
+      "pid": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",
+      "scheme": "cenc",
       "resolution": "Adaptive"
     }
   ],
